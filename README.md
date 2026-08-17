@@ -6,8 +6,8 @@ Flutter project based on the provided Figma design.
 
 ### Login Screen
 
-![Login Screen](login.png)
+![Login Screen](https://github.com/lamaashraf63-svg/task10/blob/main/00.png)
 
 ### Sign Up Screen
 
-![Sign Up Screen](signup.png)
+![Sign Up Screen](https://github.com/lamaashraf63-svg/task10/blob/main/Untitled.png)
